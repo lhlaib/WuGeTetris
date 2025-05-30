@@ -94,6 +94,12 @@ g++ main.cpp ken_test.cpp tesst.cpp testmain.cpp -o tetris -std=c++11
 └── ...
 ```
 
+## 📄 Final Report
+
+For more technical details, class structure, and implementation logic, please refer to the full project report:
+
+📘 [OOP Final Project Report – 五格方塊俄羅斯方塊 (PDF)](./images/OOP期末專題報告fianl.pdf)
+
 ### ✨ Credits
 
 Developed by:
