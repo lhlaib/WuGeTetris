@@ -4,6 +4,11 @@ A colorful **terminal-based Tetris game** written in C++ featuring not only the 
 
 ![Tetris Banner](images/title.png)
 
+覺得對你有幫助嗎？歡迎在 GitHub 上點個 Star ⭐️，讓更多人看到這份資源！ Feel free to star this repository on GitHub if you find it helpful!
+
+[![GitHub Stars](https://img.shields.io/github/stars/lhlaib/WuGeTetris.svg?style=social)](https://github.com/lhlaib/WuGeTetris) [![GitHub Follow](https://img.shields.io/github/followers/lhlaib?label=Follow&style=social)](https://github.com/lhlaib)
+
+
 ---
 
 ## 🎮 Features
