@@ -39,13 +39,20 @@ A colorful **terminal-based Tetris game** written in C++ featuring not only the 
 
 ## 🖼️ Screenshots
 
-| Menu & Game Modes                         | Gameplay Examples                        |
-|------------------------------------------|------------------------------------------|
-| ![](images/mode_selection.png)           | ![](images/combo_map.png)                |
-| ![](images/map_selection.png)            | ![](images/turtle_map.png)               |
-| ![](images/title.png)                    | ![](images/firewater_map.png)            |
-|                                          | ![](images/monster_map.png)              |
-|                                          | ![](images/five_block_play.png)          |
+| Mode Selection                 | Map Selection                 |
+| ------------------------------ | ----------------------------- |
+| ![](images/mode_selection.png) | ![](images/map_selection.png) |
+
+
+| Combo Map                 | Turtle Map                 | Fire & Water Map              | Monster Map                 |
+| ------------------------- | -------------------------- | ----------------------------- | --------------------------- |
+| ![](images/combo_map.png) | ![](images/turtle_map.png) | ![](images/firewater_map.png) | ![](images/monster_map.png) |
+
+| Five-block Gameplay             |
+| ------------------------------- |
+| ![](images/five_block_play.png) |
+
+
 
 ---
 
